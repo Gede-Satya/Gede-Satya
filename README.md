@@ -59,7 +59,8 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
 <br/>
 <div align="center">
   <img src="https://github-readme-stats-lemon-six-34.vercel.app/api/top-langs/?username=Gede-Satya&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-  <img src="https://raw.githubusercontent.com/Gede-Satya/Gede-Satya/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy Graph" />
+  <!-- INI ADALAH LINK TROPHY YANG SUDAH DIPERBAIKI -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Gede-Satya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy Graph" />
 </div>
 <br/>
 
@@ -71,7 +72,6 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
     <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/Gede-Satya/Gede-Satya/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
-
 ---
 
 <p align="center">
