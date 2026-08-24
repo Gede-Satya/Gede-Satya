@@ -18,9 +18,6 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
   </a>
-  <a href="https://open.spotify.com/user/d9s2orh937llsf4ua38zx42p8" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
 </div>
 
 <br/>
@@ -73,7 +70,8 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
 <br/>
 <div align="center">
   <img src="https://github-readme-stats-lemon-six-34.vercel.app/api/top-langs/?username=Gede-Satya&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Gede-Satya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy Graph" />
+  <!-- TROPHY GRAPH UPDATED -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Gede-Satya&theme=dracula&row=1&margin-w=15" height="150" alt="Trophy Graph" />
 </div>
 <br/>
 
