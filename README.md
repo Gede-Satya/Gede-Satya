@@ -22,11 +22,19 @@
 
 <br/>
 
-<!-- TOP TECH ICONS (CLEAN) -->
+<!-- TOP TECH ICONS -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,tailwind,nodejs,mysql,git,vscode" height="60" alt="Tech Stack" />
+    <!-- Baris 1: Bahasa, Framework & Database -->
+    <img src="https://skillicons.dev/icons?i=html,php,js,ts,laravel,react,nextjs,tailwind,bootstrap,nodejs,mysql" height="50" alt="Core Tech Stack" />
+    <br><br>
+    <!-- Baris 2: Tools & Cloud -->
+    <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,git,vscode,figma" height="50" alt="Tools & Deployment" />
   </a>
+  <br><br>
+  <!-- Baris 3: Logo spesifik yang tidak ada di skillicons -->
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </div>
 
 ---
@@ -42,29 +50,6 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
 
 ---
 
-## 💻 Tech Stack Details
-
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -77,11 +62,14 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
   <img src="https://raw.githubusercontent.com/Gede-Satya/Gede-Satya/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy Graph" />
 </div>
 <br/>
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
 <div align="center">
-<!-- PACMAN CONTRIBUTION GRAPH - NEW & WORKING -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gede-Satya/Gede-Satya/pacman-output/pacman-contribution-graph.svg?game=pacman" alt="pacman contribution graph">
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gede-Satya/Gede-Satya/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gede-Satya/Gede-Satya/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/Gede-Satya/Gede-Satya/pacman-output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---
@@ -91,7 +79,5 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
     <img src="https://komarev.com/ghpvc/?username=Gede-Satya&icon=0&color=0" alt="Profile Views" />
   </a>
 </p>
-
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=d9s2orh937llsf4ua38zx42p8&width=420&radius=34&footer=wave&accent_color=1db954)
 
 <p align="center"><i>Thanks for visiting my profile!</i></p>
