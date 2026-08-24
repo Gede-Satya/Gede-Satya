@@ -18,6 +18,9 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
   </a>
+  <a href="https://open.spotify.com/user/d9s2orh937llsf4ua38zx42p8" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
 </div>
 
 <br/>
@@ -50,6 +53,17 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
 
 ---
 
+## 🎧 Recently Played
+
+<!-- SPOTIFY RECENTLY PLAYED WIDGET -->
+<div align="center">
+  <a href="https://open.spotify.com/user/d9s2orh937llsf4ua38zx42p8" target="_blank">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=d9s2orh937llsf4ua38zx42p8&width=420&radius=34&footer=wave&accent_color=1db954" alt="Spotify recently played" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -59,7 +73,6 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
 <br/>
 <div align="center">
   <img src="https://github-readme-stats-lemon-six-34.vercel.app/api/top-langs/?username=Gede-Satya&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-  <!-- INI ADALAH LINK TROPHY YANG SUDAH DIPERBAIKI -->
   <img src="https://github-profile-trophy.vercel.app/?username=Gede-Satya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy Graph" />
 </div>
 <br/>
@@ -72,6 +85,7 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
     <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/Gede-Satya/Gede-Satya/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
 ---
 
 <p align="center">
