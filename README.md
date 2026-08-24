@@ -58,8 +58,8 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
 ### GitHub Stats
 
 <p align="center">
- <img height ="165" src="https://github-readme-stats.vercel.app/api?username=Gede-Satya&show_icons=true&theme=default">
- <img height ="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gede-Satya&layout=compact">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gede-Satya&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gede-Satya&layout=compact" />
 </p>
 
 ---
