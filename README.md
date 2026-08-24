@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vibe</h1>
+<h1 align="center">Hi, I'M Satya</h1>
 <h3 align="center">Full-Stack Web Developer | Laravel - Next.js - React - PHP</h3>
 
 <p align="center">
