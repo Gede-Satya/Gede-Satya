@@ -70,8 +70,7 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
 <br/>
 <div align="center">
   <img src="https://github-readme-stats-lemon-six-34.vercel.app/api/top-langs/?username=Gede-Satya&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-  <!-- TROPHY GRAPH UPDATED -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Gede-Satya&theme=dracula&row=1&margin-w=15" height="150" alt="Trophy Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gede-Satya&theme=dracula&hide_border=true&area=true" height="150" alt="Activity Graph" />
 </div>
 <br/>
 
