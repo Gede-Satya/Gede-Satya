@@ -94,4 +94,5 @@ Saya adalah mahasiswa D3 Manajemen Informatika yang fokus pada pengembangan web 
 </p>
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=d9s2orh937llsf4ua38zx42p8&width=420&radius=34&footer=wave&accent_color=1db954)
+
 <p align="center"><i>Thanks for visiting my profile!</i></p>
