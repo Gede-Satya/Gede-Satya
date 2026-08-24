@@ -1,10 +1,7 @@
-<!-- HEADER: LOFI CODING GIF -->
+<!-- HEADER: TYPING EFFECT -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Gede+Satya!+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%7C+Next.js+%7C+React;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
-
-<h1 align="center">Hey 👋 What's Up? I'm Gede Satya</h1>
-<h3 align="center">Full-Stack Web Developer | Laravel · Next.js · React · PHP</h3>
 
 <p align="center">
   🎓 D3 Manajemen Informatika @ Politeknik Negeri Bali<br/>
