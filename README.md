@@ -1,3 +1,9 @@
+<!-- HEADER: WAVING GRADIENT BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gede%20Satya&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descAlignY=60" alt="Animated Header" />
+</div>
+
+
 <h1 align="center">Hey 👋 What's Up? I'm Gede Satya</h1>
 <h3 align="center">Full-Stack Web Developer | Laravel · Next.js · React · PHP</h3>
 
