@@ -1,8 +1,8 @@
 <!-- HEADER: WAVING GRADIENT BANNER -->
+<!-- HEADER: TYPING EFFECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gede%20Satya&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descAlignY=60" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Gede+Satya!+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%7C+Next.js+%7C+React;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
-
 
 <h1 align="center">Hey 👋 What's Up? I'm Gede Satya</h1>
 <h3 align="center">Full-Stack Web Developer | Laravel · Next.js · React · PHP</h3>
